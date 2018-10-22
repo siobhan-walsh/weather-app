@@ -1,5 +1,6 @@
 # weather-app
-An app to show the weather forecast for the next 7 days.
+An app to show the weather forecast for the next 7 days in 5 Canadian cities. 
+A live demo can be found here: http://siobhanwalsh.ca/weather-app/
 
 Technologies:
 - <a href="https://reactjs.org/" target="_blank">React</a>
