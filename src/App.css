@@ -1,0 +1,29 @@
+body {
+    background-color: #29B6F6;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    padding: 8px 0px;
+    border-bottom: 2px solid white;
+    margin-bottom: 16px;
+}
+
+.city-label {
+  margin-right: 8px;
+  font-size: 16pt;
+  color: #fff;
+}
+
+.content {
+  padding: 8px 0;
+  width: 60vw;
+  margin: 0px 20vw;
+}
+
+.loading-img {
+  width: 100px;
+  display: block;
+  margin: 100px auto;
+}
